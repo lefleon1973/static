@@ -1,2 +1,2 @@
 # static
-Solve static indetermined beams engineering
+Solve static indetermined beams civil engineering
