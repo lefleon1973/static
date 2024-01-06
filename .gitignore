@@ -1,0 +1,4 @@
+examples_static/*
+venv/**
+.idea/**
+static_frame.png
